@@ -1,0 +1,4 @@
+com/gtd/mqh/alu/service/HelloWorldService.class
+com/gtd/mqh/alu/service/OssService.class
+com/gtd/mqh/alu/mappers/ossmqh/OssMqhMapper.class
+com/gtd/mqh/alu/web/WelcomeController.class
